@@ -40,8 +40,6 @@ particularly made for visualisation in IGV (Integrative Genomics Viewer, http://
 
 
 
-—————
-
 ## v5.6
 
 | Organism           | Chlamydomonas reinhardtii               |
@@ -70,8 +68,6 @@ particularly made for visualisation in IGV (Integrative Genomics Viewer, http://
    IGV readable reference genome (created using itv on 2019-03-21; requires all other files in this subdirectory)
 
 
-
-—————
 
 ## Cp+Mt_v4.4
 
@@ -102,8 +98,6 @@ particularly made for visualisation in IGV (Integrative Genomics Viewer, http://
 
 
 
-—————
-
 ## v5.6_Cp+Mt_v4.4
 
 | Organism           | Chlamydomonas reinhardtii                                    |
@@ -130,8 +124,6 @@ particularly made for visualisation in IGV (Integrative Genomics Viewer, http://
 4. *2019-03-21_Creinhardtii_CC-503_v5.6_Cp+Mt_v4.4.genome*
 
    IGV readable reference genome (created using itv on 2019-03-21; requires all other files in this subdirectory)
-
-—————
 
 
 
