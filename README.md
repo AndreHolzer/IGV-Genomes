@@ -1,14 +1,6 @@
----
-author: Andre Holzer | University of Cambridge | ORCID: 0000-0003-2439-6364
-date: 2019-03-21
-title: Information_about_Creinhardtii_reference_genomes_README
----
-
 # *Chlamydomonas reinhardtii* reference genomes
 
-by [Andre Holzer](https://orcid.org/0000-0003-2439-6364), 2019-03-21
-
-particularly made for visualisation in IGV (Integrative Genomics Viewer, http://software.broadinstitute.org/software/igv/)
+Files for visualisation in IGV (Integrative Genomics Viewer, http://software.broadinstitute.org/software/igv/)
 
 
 ## v5.5
@@ -130,7 +122,6 @@ particularly made for visualisation in IGV (Integrative Genomics Viewer, http://
 ## Acknowledgement
 
 created by [Andre Holzer](https://orcid.org/0000-0003-2439-6364), University of Cambridge, UK and provided via the Department of Plant Sciences, University of Cambridge, UK
-
 
 
 ## References
