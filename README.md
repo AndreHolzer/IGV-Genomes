@@ -1,5 +1,7 @@
 # *Chlamydomonas reinhardtii* reference genomes
 
+10.5281/zenodo.3732212
+
 Files for visualisation in IGV (Integrative Genomics Viewer, http://software.broadinstitute.org/software/igv/)
 
 
