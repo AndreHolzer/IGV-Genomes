@@ -124,8 +124,7 @@ Files for visualisation in IGV (Integrative Genomics Viewer, http://software.bro
 
 When using this data please cite as follows:
 
-Andre Holzer. (2019). The Chlamydomonas reference genomes for visualisation in IGV (Version v1.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3732212
-
+Andre Holzer. (2019). The Chlamydomonas reference genomes for visualisation in IGV (Version v1.0) [Data set]. Zenodo.
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3732212.svg)](https://doi.org/10.5281/zenodo.3732212)
 
 
