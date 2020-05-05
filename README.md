@@ -1,6 +1,6 @@
 # *Chlamydomonas reinhardtii* reference genomes
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3732212.svg)](https://doi.org/10.5281/zenodo.3732212)
-[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](CC-BY-SA-4.0_License.txt) ![Current Version](https://img.shields.io/badge/Version-v1.0-green.svg)
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](CC-BY-SA-4.0_License.txt) ![Current Version](https://img.shields.io/badge/Version-v1.1-green.svg)
 
 Files for visualisation in IGV (Integrative Genomics Viewer, http://software.broadinstitute.org/software/igv/)
 
@@ -18,7 +18,7 @@ Files for visualisation in IGV (Integrative Genomics Viewer, http://software.bro
 
 1. *2018-04-26_Creinhardtii_CC-503_v5.0.fa*
 
-   Nucleotide FASTA format of the genomic assembly v5.0 (downloaded from [Phytozome](https://phytozome.jgi.doe.gov/pz/portal.html) on 2018-04-26)
+   Nucleotide FASTA format of the genomic assembly v5.0 (downloaded from [Phytozome](https://phytozome.jgi.doe.gov/pz/portal.html) on 2018-04-26, in .zip or .gz format)
 
 2. *2018-04-26_Creinhardtii_CC-503_v5.0.fa.fai*
 
@@ -47,7 +47,7 @@ Files for visualisation in IGV (Integrative Genomics Viewer, http://software.bro
 
 1. *2018-12-14_Creinhardtii_CC-503_v5.0.fasta*
 
-   Nucleotide FASTA format of the genomic assembly v5.0 (downloaded from [Phytozome](https://phytozome.jgi.doe.gov/pz/portal.html) on 2018-12-14)
+   Nucleotide FASTA format of the genomic assembly v5.0 (downloaded from [Phytozome](https://phytozome.jgi.doe.gov/pz/portal.html) on 2018-12-14, in .zip or .gz format)
 
 2. *2018-12-14_Creinhardtii_CC-503_v5.0.fasta.fai*
 
@@ -76,7 +76,7 @@ Files for visualisation in IGV (Integrative Genomics Viewer, http://software.bro
 
 1. *2019-03-04_Cre.CP.MT.genomes.fasta*
 
-   Nucleotide FASTA format of the genomic assembly v4.0 (downloaded from [here](http://genomes.mcdb.ucla.edu/CreOrganelles/download.html) on 2019-03-04)
+   Nucleotide FASTA format of the genomic assembly v4.0 (downloaded from [here](http://genomes.mcdb.ucla.edu/CreOrganelles/download.html) on 2019-03-04, in .zip or .gz format)
 
 2. *2019-03-04_Cre.CP.MT.genomes.fasta.fai*
 
@@ -105,7 +105,7 @@ Files for visualisation in IGV (Integrative Genomics Viewer, http://software.bro
 
 1. *2019-03-08_Creinhardtii_CC-503_v5.0+Cre.CP.MT.genomes_v4.4*
 
-   Nucleotide FASTA format of the nuclear v5.0 and chloroplast + mitochondrial genomic assembly v4.0 (downloaded from [Phytozome](https://phytozome.jgi.doe.gov/pz/portal.html) (2018-12-14) and [here](http://genomes.mcdb.ucla.edu/CreOrganelles/download.html) (2019-03-04); merged into one FASTA file)
+   Nucleotide FASTA format of the nuclear v5.0 and chloroplast + mitochondrial genomic assembly v4.0 (downloaded from [Phytozome](https://phytozome.jgi.doe.gov/pz/portal.html) (2018-12-14) and [here](http://genomes.mcdb.ucla.edu/CreOrganelles/download.html) (2019-03-04); merged into one FASTA file; in .zip or .gz format)
 
 2. *2019-03-08_Creinhardtii_CC-503_v5.0+Cre.CP.MT.genomes_v4.4.fasta.fai*
 
