@@ -76,7 +76,7 @@ Files for visualisation in IGV (Integrative Genomics Viewer, http://software.bro
 
 1. *2019-03-04_Cre.CP.MT.genomes.fasta*
 
-   Nucleotide FASTA format of the genomic assembly v4.0 (downloaded from [here](http://genomes.mcdb.ucla.edu/CreOrganelles/download.html) on 2019-03-04, in .zip or .gz format)
+   Nucleotide FASTA format of the genomic assembly v4.0 (downloaded from [here](http://genomes.mcdb.ucla.edu/CreOrganelles/download.html) on 2019-03-04)
 
 2. *2019-03-04_Cre.CP.MT.genomes.fasta.fai*
 
